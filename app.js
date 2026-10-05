@@ -321,15 +321,22 @@ function opsaetKontroller() {
   $("#detalje").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 }
 
-// Faner: "#om" viser Om-siden, alt andet viser kalenderen
+// Faner: hash -> side. Ukendt eller tom hash viser kalenderen.
+const SIDER = {
+  kalender: "Fugle Kalender",
+  guide: "Birding & Big Year – Fugle Kalender",
+  om: "Om denne side – Fugle Kalender",
+};
+
 function visSide() {
-  const om = location.hash === "#om";
-  $("#side-kalender").hidden = om;
-  $("#side-om").hidden = !om;
-  $("#fane-kalender").toggleAttribute("aria-current", !om);
-  $("#fane-om").toggleAttribute("aria-current", om);
-  $("[aria-current]").setAttribute("aria-current", "page");
-  document.title = om ? "Om denne side – Fugle Kalender" : "Fugle Kalender";
+  const hash = location.hash.slice(1);
+  const aktiv = hash in SIDER ? hash : "kalender";
+  for (const side of Object.keys(SIDER)) {
+    $(`#side-${side}`).hidden = side !== aktiv;
+    if (side === aktiv) $(`#fane-${side}`).setAttribute("aria-current", "page");
+    else $(`#fane-${side}`).removeAttribute("aria-current");
+  }
+  document.title = SIDER[aktiv];
 }
 
 async function start() {
