@@ -2,7 +2,7 @@
 
 ## Afklaring (spørgsmål til ejer)
 - [x] Platform: webside, mobilvenlig (statisk HTML/CSS/JS)
-- [ ] Hosting: GitHub Pages, Netlify eller eget webhotel?
+- [x] Hosting: GitHub Pages – https://ekkodrom.github.io/fugle-kalender/
 - [x] Grænsetilfælde: årlige sjældne gæster med som kategori "sjælden" (brugeren vælger selv via afkrydsning)
 - [ ] Skal brugeren kunne afkrydse sete arter (Big Year-tjekliste)?
 - [ ] Regionsfilter (fx Vadehavet, Skagen, Bornholm)?
@@ -38,7 +38,7 @@ Invasionsarter (ikke hvert år): Krognæb, Høgeugle, Hvidvinget Korsnæb.
 - [x] Artskort: billede, dansk navn, latin under, periode, status, månedsbjælke
 - [x] Detaljevisning: træk, ankomst/afrejse, note, link til DOF, billedkreditering
 - [x] Filter (status, skjul fåtallige), søgning, sortering
-- [ ] Hosting/udgivelse
+- [x] Hosting/udgivelse (GitHub Pages)
 - [ ] Big Year-tjekliste (gem lokalt i browseren)
 - [ ] "Mangler stadig"-visning: mine manglende arter der kan ses nu + sidste chance
 - [ ] Vis DOF-fænologi som graf i detaljevisning

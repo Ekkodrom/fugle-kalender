@@ -66,7 +66,14 @@ Siden henter JSON med `fetch`, så den skal serveres via HTTP (virker ikke som `
 ```
 python -m http.server 8000
 ```
-Åbn http://localhost:8000. Kan hostes som statiske filer (GitHub Pages, Netlify o.l.).
+Åbn http://localhost:8000.
+
+## Udgivelse (GitHub Pages)
+- Repo: https://github.com/Ekkodrom/fugle-kalender (offentligt, branch `main`, rodmappe)
+- Live: https://ekkodrom.github.io/fugle-kalender/
+- Push til `main` udgiver automatisk (bygget tager ~1 min). `.nojekyll` sikrer at filerne serveres uændret.
+- Alle stier i siden skal være relative (fx `data/fugle.json`, ikke `/data/...`), da siden ligger under `/fugle-kalender/`.
+- GitHub CLI: `E:\Program Files\GitHub CLI\gh.exe` (konto: Ekkodrom).
 
 ## Reference
 - Gammel prototype: `../fugle_app.html` (React via CDN + Tailwind, 18 arter, regionsfilter). Kun til UI-idéer.
