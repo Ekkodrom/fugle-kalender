@@ -7,7 +7,6 @@ const STATUS = {
   vinter: "Vintergæst",
   træk: "Trækgæst",
 };
-const DAG = 24 * 60 * 60 * 1000;
 const SIDSTE_CHANCE_DAGE = 21;
 const NY_DAGE = 14;
 const SNART_DAGE = 14;
@@ -55,6 +54,11 @@ function fraInputDato(s) {
   return new Date(y, m - 1, d);
 }
 
+// Læg dage til i lokal kalendertid (sikkert hen over skift mellem sommer- og vintertid)
+function plusDage(d, n) {
+  return new Date(d.getFullYear(), d.getMonth(), d.getDate() + n);
+}
+
 function formatDato(d) {
   return `${d.getDate()}. ${MAANEDER[d.getMonth()]}`;
 }
@@ -86,7 +90,7 @@ function kanSes(art, dato) {
 // Første dato fra og med `fra` (højst `max` dage frem) hvor kanSes === ønsket
 function findSkift(art, fra, oensket, max) {
   for (let i = 0; i <= max; i++) {
-    const d = new Date(fra.getTime() + i * DAG);
+    const d = plusDage(fra, i);
     if (kanSes(art, d) === oensket) return d;
   }
   return null;
@@ -101,7 +105,7 @@ function analyserDato(art, dato) {
       info.forsvinder = vaek;
       info.tilbage = findSkift(art, vaek, true, 366);
     }
-    const foer = new Date(dato.getTime() - NY_DAGE * DAG);
+    const foer = plusDage(dato, -NY_DAGE);
     if (!kanSes(art, foer)) info.ny = true;
   } else {
     const kommer = findSkift(art, dato, true, SNART_DAGE);
@@ -140,21 +144,21 @@ function aktivMaaned() {
 /* ---------- Rendering ---------- */
 
 function thumb(art) {
-  const b = billeder[art.euring];
+  const b = billeder[art.id];
   if (b) return `<img class="thumb" src="${esc(b.url)}" alt="${esc(art.dansk)}" loading="lazy" decoding="async">`;
-  return `<div class="thumb" aria-hidden="true">${esc(art.dansk.slice(0, 2))}</div>`;
+  return `<span class="thumb" aria-hidden="true">${esc(art.dansk.slice(0, 2))}</span>`;
 }
 
 function maanedsbar(art, aktiv) {
-  return `<div class="bar" aria-hidden="true">${art.maaneder
+  return `<span class="bar" aria-hidden="true">${art.maaneder
     .map((v, i) => `<span class="v${v}${v && art.kategori === "sjælden" ? " sj" : ""}${i === aktiv ? " nu" : ""}"></span>`)
-    .join("")}</div>`;
+    .join("")}</span>`;
 }
 
-function kort(info, aktivMaaned) {
+function kort(info, maaned) {
   const { art } = info;
   const tags = [`<span class="tag">${esc(STATUS[art.status])}</span>`];
-  const niv = niveau(art, info.kommer ? info.kommer.getMonth() : aktivMaaned);
+  const niv = niveau(art, info.kommer ? info.kommer.getMonth() : maaned);
   if (niv === "fåtallig") tags.push(`<span class="tag faa">Fåtallig</span>`);
   if (niv === "sjælden") tags.push(`<span class="tag sj">Sjælden</span>`);
   if (info.forsvinder) tags.push(`<span class="tag warn">Forsvinder ca. ${formatDato(info.forsvinder)}</span>`);
@@ -162,24 +166,24 @@ function kort(info, aktivMaaned) {
   if (info.kommer) tags.push(`<span class="tag new">Kommer ca. ${formatDato(info.kommer)}</span>`);
   if (info.tilbage) tags.push(`<span class="tag">Tilbage ca. ${formatDato(info.tilbage)}</span>`);
   if (info.maanedTag) tags.push(`<span class="tag ${info.maanedTag.cls}">${esc(info.maanedTag.tekst)}</span>`);
-  return `<button class="kort" data-euring="${art.euring}">
+  return `<button class="kort" data-id="${esc(art.id)}">
     ${thumb(art)}
-    <div>
-      <div class="navn">${esc(art.dansk)}</div>
-      <div class="latin">${esc(art.latin)}</div>
-      <div class="periode">${esc(art.periode)}</div>
-      <div class="tags">${tags.join("")}</div>
-      ${maanedsbar(art, aktivMaaned)}
-    </div>
+    <span class="kort-tekst">
+      <span class="navn">${esc(art.dansk)}</span>
+      <span class="latin">${esc(art.latin)}</span>
+      <span class="periode">${esc(art.periode)}</span>
+      <span class="tags">${tags.join("")}</span>
+      ${maanedsbar(art, maaned)}
+    </span>
   </button>`;
 }
 
-function sektion(cls, titel, tekst, liste, aktivMaaned) {
+function sektion(cls, titel, tekst, liste, maaned) {
   if (!liste.length) return "";
   return `<section class="sektion ${cls}">
     <h3>${esc(titel)} <span class="count">(${liste.length})</span></h3>
     ${tekst ? `<p>${esc(tekst)}</p>` : ""}
-    <div class="grid">${sorter(liste).map((i) => kort(i, aktivMaaned)).join("")}</div>
+    <div class="grid">${sorter(liste).map((i) => kort(i, maaned)).join("")}</div>
   </section>`;
 }
 
@@ -251,11 +255,11 @@ function render() {
 
 /* ---------- Detaljevisning ---------- */
 
-function visDetalje(euring) {
-  const art = arter.find((a) => a.euring === euring);
+function visDetalje(id) {
+  const art = arter.find((a) => a.id === id);
   if (!art) return;
-  const b = billeder[euring];
-  const aktiv = state.mode === "dato" ? state.dato.getMonth() : state.maaned;
+  const b = billeder[id];
+  const aktiv = aktivMaaned();
   const fakta = [
     ["Status", STATUS[art.status] + (art.yngler ? " · yngler i Danmark" : "")],
     ["Hyppighed", { almindelig: "Almindelig", fåtallig: "Fåtallig – kræver indsats", sjælden: "Sjælden – få fund om året" }[art.kategori]],
@@ -278,7 +282,7 @@ function visDetalje(euring) {
       <div class="legend"><span><i style="background:var(--m2)"></i>Regelmæssig</span><span><i style="background:var(--m1)"></i>Fåtallig</span>${art.kategori === "sjælden" ? `<span><i style="background:repeating-linear-gradient(90deg,var(--m1) 0 3px,var(--m0) 3px 5px)"></i>Sjælden</span>` : ""}<span><i style="background:var(--m0)"></i>Normalt ikke til stede</span></div>
       <dl class="fakta">${fakta.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
       ${art.note ? `<p class="note">${esc(art.note)}</p>` : ""}
-      <p><a href="${esc(art.kilde)}" target="_blank" rel="noopener">Se ${esc(art.dansk)} hos DOF – Danmarks Fugle →</a></p>
+      <p><a href="${esc(art.kilde)}" target="_blank" rel="noopener">${art.euring ? `Se ${esc(art.dansk)} hos DOF – Danmarks Fugle` : "Se DOF's officielle danske artsliste"} →</a></p>
     </div>`;
   $("#detalje").showModal();
 }
@@ -312,7 +316,7 @@ function opsaetKontroller() {
   $("#sortering").addEventListener("change", (e) => { state.sortering = e.target.value; render(); });
   $("#sektioner").addEventListener("click", (e) => {
     const k = e.target.closest(".kort");
-    if (k) visDetalje(k.dataset.euring);
+    if (k) visDetalje(k.dataset.id);
   });
   $("#detalje").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 }
@@ -322,6 +326,7 @@ async function start() {
   try {
     const [f, b] = await Promise.all([fetch("data/fugle.json"), fetch("data/billeder.json")]);
     arter = (await f.json()).arter;
+    for (const a of arter) a.id = a.euring ?? a.latin;
     billeder = b.ok ? (await b.json()).billeder : {};
   } catch (err) {
     $("#sektioner").innerHTML = `<p class="tom">Kunne ikke indlæse data. Siden skal åbnes via en webserver (ikke direkte som fil).</p>`;

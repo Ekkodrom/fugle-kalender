@@ -10,23 +10,23 @@
 ## Data
 - [x] Første udkast af artsliste i `data/fugle.json`
 - [x] Afstemt mod DOF's "Danmarks Fugle": danske navne, latin, EURING-kode, kildelink pr. art
-- [x] Fuldstændighedstjek: alle DOF-arter med reelle observationsdata er med (kun sjældne udeladt)
+- [x] Fuldstændighedstjek mod DOF "Danmarks Fugle" (323 arter)
 - [x] Måneder krydstjekket mod DOF-fænologi (22 arter rettet)
 - [ ] Manuel gennemgang af ankomst/afrejse-datoer art for art mod DOF's fænologigrafer
 - [ ] Overvej halvmåneds-/10-dages opløsning (DOF har 36 perioder pr. år)
 - [ ] Strukturerede lokaliteter pr. art (i stedet for fritekst i `note`)
 
-- [x] Kategori `almindelig` / `fåtallig` / `sjælden` på alle arter (278 arter: 182 / 58 / 38)
-- [x] 15 årlige sjældne gæster tilføjet (Steppehøg, Aftenfalk, Stylteløber, Biæder, Dværggås, Rødhalset Gås,
-      Hvidøjet And, Kohejre, Sort Ibis, Topskarv, Slangeørn, Stribet Ryle, Hvidvinget Terne, Buskrørsanger, Fuglekongesanger)
+- [x] Kategori `almindelig` / `fåtallig` / `sjælden` på alle arter
+- [x] Fuldstændighedstjek mod DOF's officielle liste (505 arter): 20 arter tilføjet, Slangeørn (SU-art) fjernet → 297 arter (182 / 53 / 62)
+- [x] Valideringsscript (`scripts/valider-data.mjs`) – rettede 8 inkonsistente afrejsedatoer
+- [x] Årlige sjældne gæster tilføjet (Steppehøg, Aftenfalk, Stylteløber, Biæder, Dværggås, Rødhalset Gås,
+      Hvidøjet And, Kohejre, Sort Ibis, Topskarv, Stribet Ryle, Hvidvinget Terne, Buskrørsanger, Fuglekongesanger m.fl.)
 
-### Kandidater til "sjælden" (under nuværende grænse – beslut med/uden)
-Årlige, men meget få fund: Sabinemåge, Hvidvinget Måge, Hvidnæbbet Lom, Kongeederfugl, Storpiber, Rosenstær,
-Lille Skrigeørn, Hærfugl, Nathejre, Damklire, Terekklire, Dværgværling, Brun Løvsanger, Sydlig Nattergal.
-Invasionsarter (ikke hvert år): Krognæb, Høgeugle, Hvidvinget Korsnæb.
+### Bevidst udeladt
+SU-arter (fx Krognæb, Høgeugle, Slangeørn, Ørnevåge, Ørkenpræstekrave), tilfældige gæster og undslupne fugle (Mandarinand, Sortsvane, Indisk Gås).
 
 ## Billeder
-- [x] 262/263 arter har frit licenseret billede fra Wikimedia Commons (med fotograf + licens)
+- [x] 296/297 arter har frit licenseret billede fra Wikimedia Commons (med fotograf + licens)
 - [ ] Nattergal: find billede med fri licens (nuværende er kun GFDL)
 - [ ] Gennemse billeder manuelt (rigtig art, god kvalitet, voksen fugl i dragt der ses i DK)
 - [ ] Overvej at hoste billederne selv (hurtigere, uafhængig af Wikimedia) – kreditering skal bevares

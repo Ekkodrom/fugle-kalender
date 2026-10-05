@@ -9,9 +9,12 @@ App der hjælper danske fuglekiggere med at planlægge deres **Big Year** (flest
 - Gør det tydeligt hvilke arter er her hele året (fx Fuglekonge) så brugeren kan prioritere de sæsonbundne.
 
 ## Afgrænsning af arter
-- Kun **danske** fugle: alle arter der ses **hvert år** i Danmark – inkl. årlige sjældne gæster (`kategori: "sjælden"`).
-- **Udelades:** meget sjældne gæster (ikke årlige, SU-arter), uregelmæssige invasionsarter (Krognæb, Høgeugle, Hvidvinget Korsnæb) og arter hvor fundene mest er undslupne fugle (Rustand, Mandarinand m.fl.).
-- Grænse for "sjælden" med på listen: DOF-fænologiindeks (topværdi) på niveau med Sort Stork/Silkehejre (~0,004) eller derover.
+Regel (objektiv, fra DOF's officielle liste – *The Danish List*, Sjældenhedsudvalget 2025, kategori A–C):
+- **Med:** arter der IKKE er SU-arter (ikke markeret "X") og har hyppighed **VR** (meget sjælden) eller højere (DOF-skala: VC > C > FC > S > R > VR > A).
+- **Ude:** SU-arter (X – kræver godkendelse af Sjældenhedsudvalget), tilfældige gæster (A), undslupne fugle (kategori C5, fx Mandarinand) og uddøde arter.
+- Regionalt SU-krav "(X)" (fx Grønspætte øst for Storebælt) tæller ikke som SU-art.
+- `kategori` (almindelig/fåtallig/sjælden) angiver hvor let arten er at finde – ikke bestandsstørrelse – men er krydstjekket mod DOF's hyppighed: arter med DOF-status R eller VR er "sjælden".
+- Middelhavssølvmåge hedder "Middelhavsmåge" i 2025-listen; DOFbasen bruger stadig det gamle navn, så det beholdes.
 
 ## Data
 - Kilde: `data/fugle.json` (én fil, UTF-8). Feltbeskrivelser ligger i `meta.felter` i filen selv.
@@ -40,13 +43,13 @@ Implementeret i `kanSes()` i `app.js`:
 
 ## Kilder (skal altid kunne linkes)
 - **DOF – Danmarks Fugle**: https://dofbasen.dk/danmarksfugle/ – artsliste, officielle danske navne, EURING-koder, fænologi (DOFbasen 2016–2025).
-  - Hver art har `kilde` = `https://dofbasen.dk/danmarksfugle/art/<euring>`.
+  - Hver art har `kilde` = `https://dofbasen.dk/danmarksfugle/art/<euring>`. Arter uden DOFbasen-side (fx Middelhavsskråpe) har `euring: null` og linker til den officielle liste; appen bruger så det latinske navn som nøgle (`id`).
   - Rådata gemt i `data/dof-arter.json` (hentes med `scripts/hent-dof-data.mjs`).
 - **DOF – Den danske fugleliste (SU)**: https://www.dof.dk/om-dof/aktiv-i-dof/grupper-og-udvalg/sjaeldenhedsudvalget/den-danske-fugleliste
 - `maaneder`/`ankomst`/`afrejse`/`traek` er ekspertvurdering, krydstjekket mod DOF-fænologien. NB: DOF-fænologien har huller i perioder med få indtastninger – et 0 dér betyder ikke at arten er fraværende.
 
 ## Billeder
-- `data/billeder.json` (nøgle = EURING) hentes med `scripts/hent-billeder.mjs` fra Wikimedia Commons (artens hovedbillede på engelsk Wikipedia).
+- `data/billeder.json` (nøgle = EURING, ellers latinsk navn) hentes med `scripts/hent-billeder.mjs` fra Wikimedia Commons (artens hovedbillede på engelsk Wikipedia).
 - Kun licenser: Public domain, CC0, CC BY, CC BY-SA. Aldrig NC/ND/GFDL-only eller billeder uden licensdata.
 - CC BY/BY-SA kræver kreditering: fotograf + licens (med link) + link til Commons-siden SKAL vises ved billedet.
 - Arter uden frit billede viser en pladsholder.
@@ -59,6 +62,7 @@ data/billeder.json              Billed-URL'er + licens/fotograf
 data/dof-arter.json             DOF-rådata (navne, latin, fænologi) til kontrol
 scripts/hent-dof-data.mjs       Opdaterer dof-arter.json
 scripts/hent-billeder.mjs       Opdaterer billeder.json
+scripts/valider-data.mjs        Tjekker data for fejl – kør efter hver dataændring
 ```
 
 ## Kør lokalt

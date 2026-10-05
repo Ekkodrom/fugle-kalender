@@ -4,7 +4,7 @@
 // Kun licenser der tillader genbrug accepteres (Public domain, CC0, CC BY, CC BY-SA).
 // CC BY / CC BY-SA kræver kreditering: appen viser derfor fotograf + licens + link.
 //
-// Output: data/billeder.json  (nøgle = EURING-kode)
+// Output: data/billeder.json  (nøgle = EURING-kode, eller latinsk navn hvis arten ingen EURING har)
 // Kør: node scripts/hent-billeder.mjs
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -51,7 +51,8 @@ async function pageImages(titles) {
   return result;
 }
 
-const OK_LICENSE = /^(public domain|pd|cc0|cc by(-sa)? [0-9.]+|cc by(-sa)?)/i;
+// Hele licensnavnet skal matche (så fx "CC BY-NC" og "CC BY-ND" afvises). Tillader landeversioner som "CC BY-SA 3.0 de".
+const OK_LICENSE = /^(public domain|pd|cc0( 1.0)?|cc by(-sa)?( [0-9.]+)?( [a-z]{2})?)$/i;
 
 async function fileInfo(files) {
   const result = new Map();
@@ -78,6 +79,7 @@ async function fileInfo(files) {
 }
 
 const arter = data.arter;
+const id = (a) => a.euring ?? a.latin;
 const latinHits = await pageImages(arter.map((a) => a.latin));
 const missing = arter.filter((a) => !latinHits.has(a.latin) && engelsk.get(a.euring));
 const engHits = await pageImages(missing.map((a) => engelsk.get(a.euring)));
@@ -85,19 +87,19 @@ const engHits = await pageImages(missing.map((a) => engelsk.get(a.euring)));
 const fileFor = new Map();
 for (const a of arter) {
   const f = latinHits.get(a.latin) ?? engHits.get(engelsk.get(a.euring));
-  if (f) fileFor.set(a.euring, f.replace(/ /g, "_"));
+  if (f) fileFor.set(id(a), f.replace(/ /g, "_"));
 }
 const info = await fileInfo([...new Set(fileFor.values())]);
 
 const billeder = {};
 const mangler = [];
 for (const a of arter) {
-  const i = info.get(fileFor.get(a.euring));
+  const i = info.get(fileFor.get(id(a)));
   if (!i || !i.licens || !OK_LICENSE.test(i.licens)) {
     mangler.push(`${a.dansk}${i ? ` (licens: ${i.licens})` : ""}`);
     continue;
   }
-  billeder[a.euring] = { dansk: a.dansk, ...i };
+  billeder[id(a)] = { dansk: a.dansk, ...i };
 }
 
 await writeFile(
