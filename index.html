@@ -14,10 +14,14 @@
     <div class="wrap">
       <h1>Fugle Kalender</h1>
       <p class="tagline">Danske fugle – hvad kan du se, og hvornår?</p>
+      <nav class="faner" aria-label="Sider">
+        <a href="#" id="fane-kalender">Kalender</a>
+        <a href="#om" id="fane-om">Om denne side</a>
+      </nav>
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="wrap" id="side-kalender">
     <section class="controls" aria-label="Vælg tidspunkt">
       <div class="mode" role="tablist">
         <button role="tab" id="mode-dato" aria-selected="true">Dato</button>
@@ -56,6 +60,14 @@
     <p id="optaelling" class="count"></p>
 
     <div id="sektioner"></div>
+  </main>
+
+  <main class="wrap om" id="side-om" hidden>
+    <h2>Om denne side</h2>
+    <p>Denne side er skabt til at hjælpe med at planlægge fugleåret for os amatørornitologer. Noget, jeg selv har savnet, da jeg begyndte på mit big year – altså at se, hvor mange forskellige fuglearter man kan nå at se på et kalenderår. Hvilke fugle skulle jeg skynde mig at se først på året, og hvilke kunne jeg tage det mere roligt med? Frygten for ikke at nå at se nogle arter, før de forsvandt, betød meget for mig – og gør stadig.</p>
+    <p>Det er dejligt at kigge på fugle. De er sjove, spændende, flotte og fantastiske. Her i Danmark er vi så heldige at have <a href="https://www.dof.dk/" target="_blank" rel="noopener">Dansk Ornitologisk Forening</a>, der gør et kæmpe stykke arbejde for at indsamle data og formidle viden. En uvurderlig viden, som bliver samlet af både professionelle og glade amatører. En stor tak til alle dem, der er med til at indsamle data. Vi kan alle kigge på fugle, og vi kan alle bidrage til denne skønne hobby.</p>
+    <p>Denne side er bygget på data fra netop DOF, men der kan være fejl på siden, og den er kun ment som en vejledning.</p>
+    <p><a href="#" class="ghost-link">← Til kalenderen</a></p>
   </main>
 
   <footer class="wrap foot">

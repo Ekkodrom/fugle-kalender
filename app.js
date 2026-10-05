@@ -321,8 +321,21 @@ function opsaetKontroller() {
   $("#detalje").addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 }
 
+// Faner: "#om" viser Om-siden, alt andet viser kalenderen
+function visSide() {
+  const om = location.hash === "#om";
+  $("#side-kalender").hidden = om;
+  $("#side-om").hidden = !om;
+  $("#fane-kalender").toggleAttribute("aria-current", !om);
+  $("#fane-om").toggleAttribute("aria-current", om);
+  $("[aria-current]").setAttribute("aria-current", "page");
+  document.title = om ? "Om denne side – Fugle Kalender" : "Fugle Kalender";
+}
+
 async function start() {
   opsaetKontroller();
+  visSide();
+  window.addEventListener("hashchange", () => { visSide(); window.scrollTo(0, 0); });
   try {
     const [f, b] = await Promise.all([fetch("data/fugle.json"), fetch("data/billeder.json")]);
     arter = (await f.json()).arter;
