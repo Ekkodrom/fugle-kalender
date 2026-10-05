@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Se hvilke fugle du kan se i Danmark i dag – og planlæg din fugletur og dit Big Year.">
+  <meta name="theme-color" content="#1f4d3a">
+  <title>Fugle Kalender</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐦</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1>Fugle Kalender</h1>
+      <p class="tagline">Danske fugle – hvad kan du se, og hvornår?</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Vælg tidspunkt">
+      <div class="mode" role="tablist">
+        <button role="tab" id="mode-dato" aria-selected="true">Dato</button>
+        <button role="tab" id="mode-maaned" aria-selected="false">Måned</button>
+      </div>
+
+      <div id="panel-dato" class="panel">
+        <label for="dato" class="sr-only">Dato</label>
+        <input type="date" id="dato">
+        <button id="idag" class="ghost">I dag</button>
+      </div>
+
+      <div id="panel-maaned" class="panel" hidden>
+        <div class="months" id="months"></div>
+      </div>
+
+      <div class="filters">
+        <input type="search" id="soeg" placeholder="Søg på dansk eller latinsk navn" autocomplete="off">
+        <div class="chips" id="status-chips"></div>
+        <div class="row">
+          <fieldset class="niveauer">
+            <legend class="sr-only">Vis arter</legend>
+            <label class="check"><input type="checkbox" data-niveau="almindelig"> Almindelige</label>
+            <label class="check"><input type="checkbox" data-niveau="fåtallig"> Fåtallige</label>
+            <label class="check"><input type="checkbox" data-niveau="sjælden"> Sjældne</label>
+          </fieldset>
+          <select id="sortering" aria-label="Sortering">
+            <option value="system">Systematisk</option>
+            <option value="alfa">Alfabetisk</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <h2 id="overskrift" class="headline"></h2>
+    <p id="optaelling" class="count"></p>
+
+    <div id="sektioner"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <p><strong>Kilder:</strong> Artsliste, danske navne og fænologi: <a href="https://dofbasen.dk/danmarksfugle/" target="_blank" rel="noopener">DOF – Danmarks Fugle</a> (data fra <a href="https://dofbasen.dk/" target="_blank" rel="noopener">DOFbasen</a>). Perioder og datoer er vejledende.</p>
+    <p><strong>Billeder:</strong> <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>, under frie licenser (CC0, Public domain, CC BY, CC BY-SA). Fotograf og licens står ved hvert billede.</p>
+  </footer>
+
+  <dialog id="detalje" aria-labelledby="d-navn">
+    <form method="dialog"><button class="luk" aria-label="Luk">✕</button></form>
+    <div id="detalje-indhold"></div>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

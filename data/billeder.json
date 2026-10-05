@@ -1,0 +1,2223 @@
+{
+ "kilde": "Wikimedia Commons (https://commons.wikimedia.org/) via Wikipedia",
+ "hentet": "2026-10-05",
+ "bemaerk": "CC BY og CC BY-SA kræver at fotograf og licens krediteres ved visning.",
+ "billeder": {
+  "10010": {
+   "dansk": "Bysvale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/960px-Mehlschwalbe_Delichon_urbicum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mehlschwalbe_Delichon_urbicum.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "10050": {
+   "dansk": "Markpiber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Tawny_pipit_47.jpg/960px-Tawny_pipit_47.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tawny_pipit_47.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Afsarnayakkan"
+  },
+  "10090": {
+   "dansk": "Skovpiber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Tree_Pipit_%28Anthus_trivialis%29_%2839760400431%29_%28cropped%29.jpg/960px-Tree_Pipit_%28Anthus_trivialis%29_%2839760400431%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tree_Pipit_(Anthus_trivialis)_(39760400431)_(cropped).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Imran Shah from Islamabad, Pakistan"
+  },
+  "10110": {
+   "dansk": "Engpiber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/960px-Wiesenpieper_Meadow_pipit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Wiesenpieper_Meadow_pipit.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "10120": {
+   "dansk": "Rødstrubet Piber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Red-throated_Pipit.jpg/960px-Red-throated_Pipit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-throated_Pipit.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "10135": {
+   "dansk": "Skærpiber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-04-22_Anthus_petrosus%2C_Portsoy.jpg/960px-2015-04-22_Anthus_petrosus%2C_Portsoy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2015-04-22_Anthus_petrosus,_Portsoy.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "MPF"
+  },
+  "10140": {
+   "dansk": "Bjergpiber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Anthus_spinoletta_-_Water_Pipit%2C_Kahramanmara%C5%9F_2016-11-18_01-10.jpg/960px-Anthus_spinoletta_-_Water_Pipit%2C_Kahramanmara%C5%9F_2016-11-18_01-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Anthus_spinoletta_-_Water_Pipit,_Kahramanmara%C5%9F_2016-11-18_01-10.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Zeynel Cebeci"
+  },
+  "10170": {
+   "dansk": "Gul Vipstjert",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Wiesenschafstelze.JPG/960px-Wiesenschafstelze.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Wiesenschafstelze.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Frebeck"
+  },
+  "10190": {
+   "dansk": "Bjergvipstjert",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg/960px-Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gebirgsstelze_im_Geo-Naturpark_Bergstra%C3%9Fe-Odenwald.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Herwig Winter"
+  },
+  "10200": {
+   "dansk": "Hvid Vipstjert",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/960px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:20180415_015_Winterswijk_Witte_kwikstaart_(40785272624).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Jac. Janssen from BAARLO LB, NL"
+  },
+  "10480": {
+   "dansk": "Silkehale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bombycilla_garrulus%2C_Novosibirsk_1.jpg/960px-Bombycilla_garrulus%2C_Novosibirsk_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bombycilla_garrulus,_Novosibirsk_1.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Tatiana Bulyonkova from Novosibirsk, Russia"
+  },
+  "10500": {
+   "dansk": "Vandstær",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg/960px-Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Cinclus_cinclus_-Kirkcudbright,_Scotland-8.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Mark Medcalf"
+  },
+  "10660": {
+   "dansk": "Gærdesmutte",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Eurasian_wren_Franconville_02.jpg/960px-Eurasian_wren_Franconville_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_wren_Franconville_02.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "10840": {
+   "dansk": "Jernspurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/960px-Dunnock_%28Prunella_modularis%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Dunnock_(Prunella_modularis)_3.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "10990": {
+   "dansk": "Rødhals",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/960px-Erithacus_rubecula_with_cocked_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis C. Franklin"
+  },
+  "11060": {
+   "dansk": "Blåhals",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/960px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bluethroat_(Luscinia_svecica_svecica)_male_Oppdal.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "11210": {
+   "dansk": "Husrødstjert",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rougequeue_noir_ichkeul058_%28cropped%29.jpg/960px-Rougequeue_noir_ichkeul058_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rougequeue_noir_ichkeul058_(cropped).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "El Golli Mohamed"
+  },
+  "11220": {
+   "dansk": "Rødstjert",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg/960px-Phoenicurus_phoenicurus_08%28js%29%2C_Lodz_%28Poland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phoenicurus_phoenicurus_08(js),_Lodz_(Poland).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Jerzy Strzelecki"
+  },
+  "11370": {
+   "dansk": "Bynkefugl",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg/960px-Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tarier_des_pr%C3%A8s_Zaghouan_NP001.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "El Golli Mohamed"
+  },
+  "11390": {
+   "dansk": "Sortstrubet Bynkefugl",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg/960px-Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stonechat_(Saxicola_rubicola)_male,_Beaulieu,_Hampshire.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "11460": {
+   "dansk": "Stenpikker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Steinschmaetzer_Northern_wheatear_male.jpg/960px-Steinschmaetzer_Northern_wheatear_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Steinschmaetzer_Northern_wheatear_male.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "11860": {
+   "dansk": "Ringdrossel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Turdus_torquatus%2C_Spain_1.jpg/960px-Turdus_torquatus%2C_Spain_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Turdus_torquatus,_Spain_1.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Paco Gómez"
+  },
+  "11870": {
+   "dansk": "Solsort",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/960px-Common_Blackbird.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Blackbird.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "11980": {
+   "dansk": "Sjagger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Turdus_pilaris_EM1B9020_%2834450664312%29.jpg/960px-Turdus_pilaris_EM1B9020_%2834450664312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Turdus_pilaris_EM1B9020_(34450664312).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Bengt Nyman from Vaxholm, Sweden"
+  },
+  "12000": {
+   "dansk": "Sangdrossel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_%28Turdus_philomelos%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/960px-%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_%28Turdus_philomelos%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_(Turdus_philomelos),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dion Art"
+  },
+  "12010": {
+   "dansk": "Vindrossel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Redwing_Turdus_iliacus.jpg/960px-Redwing_Turdus_iliacus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Redwing_Turdus_iliacus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "12020": {
+   "dansk": "Misteldrossel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Turdus_viscivorus.001_-_Cardiff.jpg/960px-Turdus_viscivorus.001_-_Cardiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Turdus_viscivorus.001_-_Cardiff.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Fernando Losada Rodríguez"
+  },
+  "12360": {
+   "dansk": "Græshoppesanger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grashoppsangare-070512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Grashoppsangare-070512.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Stefan Hage, Birds.se"
+  },
+  "12370": {
+   "dansk": "Flodsanger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Flodsangare.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Lasse Olsson"
+  },
+  "12380": {
+   "dansk": "Savisanger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Locustellaluscinioides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Locustellaluscinioides.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Created by Sergey Yeliseev."
+  },
+  "12430": {
+   "dansk": "Sivsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg/960px-Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sedge_warbler_(Acrocephalus_schoenobaenus)_3.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "12480": {
+   "dansk": "Buskrørsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Blyth%27s_Reed_Warbler_in_Baruipur_December_2024_by_Tisha_Mukherjee_02.jpg/960px-Blyth%27s_Reed_Warbler_in_Baruipur_December_2024_by_Tisha_Mukherjee_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Blyth%27s_Reed_Warbler_in_Baruipur_December_2024_by_Tisha_Mukherjee_02.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Tisha Mukherjee"
+  },
+  "12500": {
+   "dansk": "Kærsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Acrocephalus_palustris_Irpin6.JPG/960px-Acrocephalus_palustris_Irpin6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Acrocephalus_palustris_Irpin6.JPG",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Аимаина хикари"
+  },
+  "12510": {
+   "dansk": "Rørsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/PleidelsheimerWiesentalTeichrohrsaenger.jpg/960px-PleidelsheimerWiesentalTeichrohrsaenger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:PleidelsheimerWiesentalTeichrohrsaenger.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Jürgen Freisinger"
+  },
+  "12530": {
+   "dansk": "Drosselrørsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/960px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "12590": {
+   "dansk": "Gulbug",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Icterine_warbler_18_06_2022_004_crop.png/960px-Icterine_warbler_18_06_2022_004_crop.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Icterine_warbler_18_06_2022_004_crop.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "JuliusFajman"
+  },
+  "12730": {
+   "dansk": "Høgesanger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Curruca_nisoria_378155893_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Curruca_nisoria_378155893_(cropped).jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Christoph Moning"
+  },
+  "12740": {
+   "dansk": "Gærdesanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%88%D0%BA%D0%B0_%28Sylvia_curruca%29.jpg/960px-%D0%A1%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%88%D0%BA%D0%B0_%28Sylvia_curruca%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%88%D0%BA%D0%B0_(Sylvia_curruca).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Ekytza"
+  },
+  "12750": {
+   "dansk": "Tornsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Common_Whitethroat.jpg/960px-Common_Whitethroat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Whitethroat.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "12760": {
+   "dansk": "Havesanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg/960px-Sylvia_borin_%28%C3%96rebro_County%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sylvia_borin_(%C3%96rebro_County).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Biillyboy"
+  },
+  "12770": {
+   "dansk": "Munk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Eurasian_blackcap_%28Sylvia_atricapilla%29_male_Drenthe.jpg/960px-Eurasian_blackcap_%28Sylvia_atricapilla%29_male_Drenthe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_blackcap_(Sylvia_atricapilla)_male_Drenthe.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "12930": {
+   "dansk": "Lundsanger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Greenish_Warbler_Sikkim_India_11.05.2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Greenish_Warbler_Sikkim_India_11.05.2014.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dibyendu Ash"
+  },
+  "12980": {
+   "dansk": "Fuglekongesanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Pallas%27s_Leaf_Warbler%2C_Tunkinskiy_Rayon%2C_Buryat%2C_Russia_2.jpg/960px-Pallas%27s_Leaf_Warbler%2C_Tunkinskiy_Rayon%2C_Buryat%2C_Russia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pallas%27s_Leaf_Warbler,_Tunkinskiy_Rayon,_Buryat,_Russia_2.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "fedotova_elena"
+  },
+  "13000": {
+   "dansk": "Hvidbrynet Løvsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Yellow-browed_warbler_%28Phylloscopus_inornatus%29%2C_Parc_du_Slot%2C_Woluw%C3%A9-St.-Lambert%2C_Brussels_%2834053989676%29.jpg/960px-Yellow-browed_warbler_%28Phylloscopus_inornatus%29%2C_Parc_du_Slot%2C_Woluw%C3%A9-St.-Lambert%2C_Brussels_%2834053989676%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Yellow-browed_warbler_(Phylloscopus_inornatus),_Parc_du_Slot,_Woluw%C3%A9-St.-Lambert,_Brussels_(34053989676).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Frank Vassen from Brussels, Belgium"
+  },
+  "13080": {
+   "dansk": "Skovsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg/960px-Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Steve Garvie from Dunfermline, Fife, Scotland"
+  },
+  "13110": {
+   "dansk": "Gransanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Common_Chiffchaff_2025_04_04_01.jpg/960px-Common_Chiffchaff_2025_04_04_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Chiffchaff_2025_04_04_01.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "13120": {
+   "dansk": "Løvsanger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg/960px-Willow_Warbler_Phylloscopus_trochilus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Willow_Warbler_Phylloscopus_trochilus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "13140": {
+   "dansk": "Fuglekonge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldcrest_1.jpg/960px-Goldcrest_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Goldcrest_1.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis C. Franklin"
+  },
+  "13150": {
+   "dansk": "Rødtoppet Fuglekonge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Common_firecrest_Franconville_03.jpg/960px-Common_firecrest_Franconville_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_firecrest_Franconville_03.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "13350": {
+   "dansk": "Grå Fluesnapper",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg/960px-Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Muscicapa_striata_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%96%D1%80%D0%B0.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Бусел В.А."
+  },
+  "13430": {
+   "dansk": "Lille Fluesnapper",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ficedula_parva_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0.jpg/960px-Ficedula_parva_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ficedula_parva_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BC%D0%B0%D0%BB%D0%B0.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Nppgrandmeadow"
+  },
+  "13490": {
+   "dansk": "Broget Fluesnapper",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Mark Medcalf"
+  },
+  "13640": {
+   "dansk": "Skægmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bearded_reedling_%28Panurus_biarmicus%29.jpg/960px-Bearded_reedling_%28Panurus_biarmicus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bearded_reedling_(Panurus_biarmicus).jpg",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Hobbyfotowiki"
+  },
+  "14370": {
+   "dansk": "Halemejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0_2.jpg/960px-%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%B2%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0_2.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Ігор Червоненко"
+  },
+  "14400": {
+   "dansk": "Sumpmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sumpfmeise_im_NSG_Hirschacker_und_Dossenwald_2.jpg/960px-Sumpfmeise_im_NSG_Hirschacker_und_Dossenwald_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sumpfmeise_im_NSG_Hirschacker_und_Dossenwald_2.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Stephan Sprinz"
+  },
+  "14420": {
+   "dansk": "Fyrremejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Poecile_montanus_kleinschmidti.jpg/960px-Poecile_montanus_kleinschmidti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Poecile_montanus_kleinschmidti.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis C. Franklin"
+  },
+  "14540": {
+   "dansk": "Topmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Lophophanes_cristatus_-_01.jpg/960px-Lophophanes_cristatus_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lophophanes_cristatus_-_01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Carlos Delgado"
+  },
+  "14610": {
+   "dansk": "Sortmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Coal_Tit_2026_03_23.jpg/960px-Coal_Tit_2026_03_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coal_Tit_2026_03_23.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "14620": {
+   "dansk": "Blåmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Eurasian_blue_tit_Lancashire.jpg/960px-Eurasian_blue_tit_Lancashire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_blue_tit_Lancashire.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis Franklin"
+  },
+  "14640": {
+   "dansk": "Musvit",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg/960px-Great_tit_%28Parus_major%29%2C_Parc_du_Rouge-Cloitre%2C_For%C3%AAt_de_Soignes%2C_Brussels_%2826194636951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major),_Parc_du_Rouge-Cloitre,_For%C3%AAt_de_Soignes,_Brussels_(26194636951).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Frank Vassen from Brussels, Belgium"
+  },
+  "14790": {
+   "dansk": "Spætmejse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kleiber_Sitta_europaea-0447.jpg/960px-Kleiber_Sitta_europaea-0447.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Kleiber_Sitta_europaea-0447.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Isiwal"
+  },
+  "14860": {
+   "dansk": "Træløber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasian_Treecreeper_-_Certhia_familiaris_%2854192274817%29.jpg/960px-Eurasian_Treecreeper_-_Certhia_familiaris_%2854192274817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_Treecreeper_-_Certhia_familiaris_(54192274817).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "caroline legg"
+  },
+  "14870": {
+   "dansk": "Korttået Træløber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Short-toed_treecreeper_%28Certhia_brachydactyla_brachydactyla%29.jpg/960px-Short-toed_treecreeper_%28Certhia_brachydactyla_brachydactyla%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Short-toed_treecreeper_(Certhia_brachydactyla_brachydactyla).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "14900": {
+   "dansk": "Pungmejse",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Remiz_pendulinus_3_(Martin_Mecnarowski).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Martin Mecnarowski (http://www.photomecan.eu/)"
+  },
+  "15080": {
+   "dansk": "Pirol",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png/960px-Rigogolo-%28Oriolus_oriolus%29_Lazio%2C_isola_di_Ventotene_%28LT%29_19.4.2024_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rigogolo-(Oriolus_oriolus)_Lazio,_isola_di_Ventotene_(LT)_19.4.2024_(cropped).png",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Apatura1955"
+  },
+  "15150": {
+   "dansk": "Rødrygget Tornskade",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/960px-Red-backed_shrike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Antonios Tsaknakis"
+  },
+  "15200": {
+   "dansk": "Stor Tornskade",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg/960px-Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_Grey_Shrike_in_Bhigwan_August_2025_by_Tisha_Mukherjee_02.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Tisha Mukherjee"
+  },
+  "15390": {
+   "dansk": "Skovskade",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/960px-Garrulus_glandarius_1_Luc_Viatour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Luc Viatour"
+  },
+  "15490": {
+   "dansk": "Husskade",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Eurasian_magpie_2024_03_03_02.jpg/960px-Eurasian_magpie_2024_03_03_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_2024_03_03_02.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "15570": {
+   "dansk": "Nøddekrige",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Nucifraga_caryocatactes_Davos_1.jpg/960px-Nucifraga_caryocatactes_Davos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Nucifraga_caryocatactes_Davos_1.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "kuhnmi"
+  },
+  "15600": {
+   "dansk": "Allike",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Nordic_jackdaw_%2852563242448%29.jpg/960px-Nordic_jackdaw_%2852563242448%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Nordic_jackdaw_(52563242448).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "hedera.baltica from Wrocław, Poland"
+  },
+  "15630": {
+   "dansk": "Råge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Rook_%28Corvus_frugilegus%29_Heligan.jpg/960px-Rook_%28Corvus_frugilegus%29_Heligan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rook_(Corvus_frugilegus)_Heligan.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "15670": {
+   "dansk": "Krage",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Carrion_crow_2022_04_05_05_02.jpg/960px-Carrion_crow_2022_04_05_05_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Carrion_crow_2022_04_05_05_02.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "15720": {
+   "dansk": "Ravn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg/960px-Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis,_Point_Reyes_National_Seashore.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Frank Schulenburg"
+  },
+  "15820": {
+   "dansk": "Stær",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg/960px-Common_starling_%28Sturnus_vulgaris%29_breeding_male_Marken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_starling_(Sturnus_vulgaris)_breeding_male_Marken.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "15910": {
+   "dansk": "Gråspurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/960px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Rhododendrites"
+  },
+  "15980": {
+   "dansk": "Skovspurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tree_Sparrow_August_2007_Osaka_Japan.jpg/960px-Tree_Sparrow_August_2007_Osaka_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tree_Sparrow_August_2007_Osaka_Japan.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Laitche"
+  },
+  "16360": {
+   "dansk": "Bogfinke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Male_Chaffinch_-_Fringilla_coelebs.jpg/960px-Male_Chaffinch_-_Fringilla_coelebs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Male_Chaffinch_-_Fringilla_coelebs.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "caroline legg"
+  },
+  "16380": {
+   "dansk": "Kvækerfinke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Pinson_du_nord.jpg/960px-Pinson_du_nord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pinson_du_nord.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Pierre Dalous"
+  },
+  "16400": {
+   "dansk": "Gulirisk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/960px-European_serin_%28Serinus_serinus%29_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:European_serin_(Serinus_serinus)_male.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "16490": {
+   "dansk": "Grønirisk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Chloris_chloris_%28profile%29.jpg/960px-Chloris_chloris_%28profile%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chloris_chloris_(profile).jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Martin Kunz"
+  },
+  "16530": {
+   "dansk": "Stillits",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg/960px-072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:072_Wild_European_goldfinch_at_the_Parc_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Giles Laurent"
+  },
+  "16540": {
+   "dansk": "Grønsisken",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Eurasian_siskin_%28Spinus_spinus%29_male_Biebrzanski.jpg/960px-Eurasian_siskin_%28Spinus_spinus%29_male_Biebrzanski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_siskin_(Spinus_spinus)_male_Biebrzanski.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "16600": {
+   "dansk": "Tornirisk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/960px-Carduelis_cannabina_-England_-male-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Joe Pell"
+  },
+  "16620": {
+   "dansk": "Bjergirisk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Twite_%28Linaria_flavirostris%29%2C_Zinc_Road%2C_Teesside_%2853540824279%29.jpg/960px-Twite_%28Linaria_flavirostris%29%2C_Zinc_Road%2C_Teesside_%2853540824279%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Twite_(Linaria_flavirostris),_Zinc_Road,_Teesside_(53540824279).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "peterichman"
+  },
+  "16630": {
+   "dansk": "Gråsisken",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Carduelis_flammea_CT6.jpg/960px-Carduelis_flammea_CT6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Carduelis_flammea_CT6.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Cephas"
+  },
+  "16660": {
+   "dansk": "Lille Korsnæb",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Red_Crossbills_%28Male%29.jpg/960px-Red_Crossbills_%28Male%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red_Crossbills_(Male).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Elaine R. Wilson, www.naturespicsonline.com"
+  },
+  "16680": {
+   "dansk": "Stor Korsnæb",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Furukorsnebb..%28Loxia_pytyopsittacus%29_%28cropped%29.jpg/960px-Furukorsnebb..%28Loxia_pytyopsittacus%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Furukorsnebb..(Loxia_pytyopsittacus)_(cropped).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Marton Berntsen"
+  },
+  "16790": {
+   "dansk": "Karmindompap",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Carpodacus_erythrinus_284921386.jpg/960px-Carpodacus_erythrinus_284921386.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Carpodacus_erythrinus_284921386.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Михаил Малышев"
+  },
+  "17100": {
+   "dansk": "Dompap",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bullfinch_male.jpg/960px-Bullfinch_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bullfinch_male.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis Franklin"
+  },
+  "17170": {
+   "dansk": "Kernebider",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hawfinch_%28Coccothraustes_coccothraustes%29_male_Drenthe.jpg/960px-Hawfinch_%28Coccothraustes_coccothraustes%29_male_Drenthe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Hawfinch_(Coccothraustes_coccothraustes)_male_Drenthe.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "18470": {
+   "dansk": "Lapværling",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lapland_Longspur_-_Calcarius_lapponicus_-_Sportittlingur_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Lapland_Longspur_-_Calcarius_lapponicus_-_Sportittlingur_1.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Ómar Runólfsson"
+  },
+  "18500": {
+   "dansk": "Snespurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg/960px-Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Snow_Bunting_(Plectrophenax_nivalis),_Thule,_Greenland_1.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Drew Avery"
+  },
+  "18570": {
+   "dansk": "Gulspurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Goldammer_Emberiza_citrinella.jpg/960px-Goldammer_Emberiza_citrinella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Goldammer_Emberiza_citrinella.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "18660": {
+   "dansk": "Hortulan",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg/960px-Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ortolan_bunting_in_Sierra_de_Guara,_Aragon,_Spain.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Pierre Dalous"
+  },
+  "18770": {
+   "dansk": "Rørspurv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg/960px-Reed_Bunting_-_Emberiza_schoeniclus_%2852015951301%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Reed_Bunting_-_Emberiza_schoeniclus_(52015951301).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "caroline legg"
+  },
+  "18820": {
+   "dansk": "Bomlærke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Bruant_proyer_Ichkeul018.jpg/960px-Bruant_proyer_Ichkeul018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bruant_proyer_Ichkeul018.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "El Golli Mohamed"
+  },
+  "01520": {
+   "dansk": "Knopsvane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/960px-CygneVaires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:CygneVaires.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Sanchezn"
+  },
+  "01540": {
+   "dansk": "Sangsvane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cygnus_cygnus_Singschwan.jpg/960px-Cygnus_cygnus_Singschwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Cygnus_cygnus_Singschwan.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "01530": {
+   "dansk": "Pibesvane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cygnus_bewickii_01.jpg/960px-Cygnus_bewickii_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Cygnus_bewickii_01.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Maga-chan"
+  },
+  "01571": {
+   "dansk": "Tajgasædgås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Taiga_bean_goose_%2854312538416%29.jpg/960px-Taiga_bean_goose_%2854312538416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Taiga_bean_goose_(54312538416).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Andrey Gulivanov"
+  },
+  "01574": {
+   "dansk": "Tundrasædgås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/101777_%E8%B1%86%E9%9B%81%E4%BE%86%E8%87%A8.jpg/960px-101777_%E8%B1%86%E9%9B%81%E4%BE%86%E8%87%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:101777_%E8%B1%86%E9%9B%81%E4%BE%86%E8%87%A8.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "邱文強"
+  },
+  "01580": {
+   "dansk": "Kortnæbbet Gås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg/960px-2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2019-03-25_Anser_brachyrhynchus,_Killingworth_Lake,_Northumberland_1.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "MPF"
+  },
+  "01590": {
+   "dansk": "Blisgås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/960px-Greater_white-fronted_goose_in_flight-1045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Greater_white-fronted_goose_in_flight-1045.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Frank Schulenburg"
+  },
+  "01600": {
+   "dansk": "Dværggås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Anser_erythropus.jpg/960px-Anser_erythropus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Anser_erythropus.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": null
+  },
+  "01610": {
+   "dansk": "Grågås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/960px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_-_St_James%27s_Park,_London_-_Nov_2006.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Diliff"
+  },
+  "01660": {
+   "dansk": "Canadagås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg/960px-Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Canada_goose_on_Seedskadee_NWR_(27826185489).jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "USFWS Mountain-Prairie"
+  },
+  "01670": {
+   "dansk": "Bramgås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Barnacle-Goose.jpg/960px-Barnacle-Goose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Barnacle-Goose.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "01690": {
+   "dansk": "Rødhalset Gås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Red-breasted_goose_arp.jpg/960px-Red-breasted_goose_arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-breasted_goose_arp.jpg",
+   "licens": "Public domain",
+   "licensUrl": null,
+   "fotograf": "Adrian Pingstone (Arpingstone)"
+  },
+  "01680": {
+   "dansk": "Knortegås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Atlantic_Brant_Fly-By_Wiki.png/960px-Atlantic_Brant_Fly-By_Wiki.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Atlantic_Brant_Fly-By_Wiki.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Needsmoreritalin"
+  },
+  "01700": {
+   "dansk": "Nilgås",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Egyptian_goose_%28Alopochen_aegyptiaca%29_London.jpg/960px-Egyptian_goose_%28Alopochen_aegyptiaca%29_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Egyptian_goose_(Alopochen_aegyptiaca)_London.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "01730": {
+   "dansk": "Gravand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Common_Shelduck_%28Tadorna_tadorna%29_%2826499348215%29.jpg/960px-Common_Shelduck_%28Tadorna_tadorna%29_%2826499348215%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Shelduck_(Tadorna_tadorna)_(26499348215).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Bernard DUPONT from FRANCE"
+  },
+  "01790": {
+   "dansk": "Pibeand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Eurasian_wigeon_in_Sakai%2C_Osaka%2C_February_2016.jpg/960px-Eurasian_wigeon_in_Sakai%2C_Osaka%2C_February_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_wigeon_in_Sakai,_Osaka,_February_2016.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Laitche"
+  },
+  "01820": {
+   "dansk": "Knarand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/960px-Gadwall-Anas-strepera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gadwall-Anas-strepera.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "01840": {
+   "dansk": "Krikand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Eurasian_teal_%28Anas_crecca_crecca%29_male_Qingshui.jpg/960px-Eurasian_teal_%28Anas_crecca_crecca%29_male_Qingshui.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_teal_(Anas_crecca_crecca)_male_Qingshui.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "01860": {
+   "dansk": "Gråand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/960px-Anas_platyrhynchos_male_female_quadrat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female_quadrat.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "This picture was realized by Richard Bartz by using a Canon EF 70-300mm f/4-5.6 IS USM Lens"
+  },
+  "01890": {
+   "dansk": "Spidsand",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Northern_Pintails_(Male_%26_Female)_I_IMG_0911.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "J.M.Garg"
+  },
+  "01910": {
+   "dansk": "Atlingand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Garganey%2C_Israel.jpg/960px-Garganey%2C_Israel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Garganey,_Israel.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "YedidyaPopper"
+  },
+  "01940": {
+   "dansk": "Skeand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Northern_shoveler_%28Spatula_clypeata%29_male_Marken.jpg/960px-Northern_shoveler_%28Spatula_clypeata%29_male_Marken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_(Spatula_clypeata)_male_Marken.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "01960": {
+   "dansk": "Rødhovedet And",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Netta_rufina_%28Red-crested_Pochard%29_Male%2C_London_Wetland_Centre_-_Diliff.jpg/960px-Netta_rufina_%28Red-crested_Pochard%29_Male%2C_London_Wetland_Centre_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Netta_rufina_(Red-crested_Pochard)_Male,_London_Wetland_Centre_-_Diliff.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Diliff"
+  },
+  "01980": {
+   "dansk": "Taffeland",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Common_Pochard_2025_11_15_04.jpg/960px-Common_Pochard_2025_11_15_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Pochard_2025_11_15_04.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "02020": {
+   "dansk": "Hvidøjet And",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Aythya_nyroca_at_Martin_Mere.jpg/960px-Aythya_nyroca_at_Martin_Mere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Aythya_nyroca_at_Martin_Mere.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Francis C. Franklin"
+  },
+  "02030": {
+   "dansk": "Troldand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tufted_Duck_09_05_2025_02.jpg/960px-Tufted_Duck_09_05_2025_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Tufted_Duck_09_05_2025_02.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "02040": {
+   "dansk": "Bjergand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Drake_Greater_scaup_%28Aythya_marila%29_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/960px-Drake_Greater_scaup_%28Aythya_marila%29_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Drake_Greater_scaup_(Aythya_marila)_Barnegat_Inlet,_New_Jersey,_USA.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler d/b/a Focus On Wildlife"
+  },
+  "02060": {
+   "dansk": "Ederfugl",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg/960px-%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Ryzhkov Sergey"
+  },
+  "02120": {
+   "dansk": "Havlit",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Long-tailed-duck.jpg/960px-Long-tailed-duck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Long-tailed-duck.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Wolfgang Wander"
+  },
+  "02130": {
+   "dansk": "Sortand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg/960px-M%C3%A4nnliche_Trauerente_%28Melanitta_nigra%29_-_Spiekeroog%2C_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Trauerente_(Melanitta_nigra)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Stephan Sprinz"
+  },
+  "02150": {
+   "dansk": "Fløjlsand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg/960px-Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Velvet_Scoter,_Eyebrook_Reservoir,_Leics.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Vince"
+  },
+  "02180": {
+   "dansk": "Hvinand",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg/960px-Common_Goldeneye_%28Bucephala_clangula%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_(Bucephala_clangula).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "https://www.flickr.com/photos/sbern/"
+  },
+  "02200": {
+   "dansk": "Lille Skallesluger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Zwergsaeger_maenchen_weibchen.jpg/960px-Zwergsaeger_maenchen_weibchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Zwergsaeger_maenchen_weibchen.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "02210": {
+   "dansk": "Toppet Skallesluger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg/960px-Red-breasted_Merganser_male_%28Mergus_serrator%29%2C_Barnegat_Inlet%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-breasted_Merganser_male_(Mergus_serrator),_Barnegat_Inlet,_New_Jersey,_USA.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Needsmoreritalin"
+  },
+  "02230": {
+   "dansk": "Stor Skallesluger",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mergus_merganser_merganser_2078_%285561922560%29.jpg/960px-Mergus_merganser_merganser_2078_%285561922560%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_merganser_2078_(5561922560).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Bengt Nyman from Vaxholm, Sweden"
+  },
+  "03670": {
+   "dansk": "Agerhøne",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Perdix_perdix_Turvey_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_Turvey_3.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "david galavan"
+  },
+  "03700": {
+   "dansk": "Vagtel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg/960px-Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Coturnix_coturnix,_Fraunberg,_Bayern,_Deutschland_1,_Ausschnitt.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "christoph_moning"
+  },
+  "03940": {
+   "dansk": "Fasan",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Phasianus_colchicus_Oulu_20200524_02.jpg/960px-Phasianus_colchicus_Oulu_20200524_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Phasianus_colchicus_Oulu_20200524_02.jpg",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Estormiz"
+  },
+  "00020": {
+   "dansk": "Rødstrubet Lom",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Red-throated_diver_%28Gavia_stellata%29_breeding_Rif.jpg/960px-Red-throated_diver_%28Gavia_stellata%29_breeding_Rif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-throated_diver_(Gavia_stellata)_breeding_Rif.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "00030": {
+   "dansk": "Sortstrubet Lom",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Black-throated_Diver%2C_Oulu%2C_Finland_02_%2815195370798%29.jpg/960px-Black-throated_Diver%2C_Oulu%2C_Finland_02_%2815195370798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Black-throated_Diver,_Oulu,_Finland_02_(15195370798).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Francesco Veronesi from Italy"
+  },
+  "00040": {
+   "dansk": "Islom",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/960px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gavia_immer_-Minocqua,_Wisconsin,_USA_-swimming-8.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "John Picken from Chicago, USA"
+  },
+  "00220": {
+   "dansk": "Mallemuk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Fulmar_%28Fulmarus_glacialis%29_in_flight_Moher.jpg/960px-Fulmar_%28Fulmarus_glacialis%29_in_flight_Moher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fulmar_(Fulmarus_glacialis)_in_flight_Moher.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "00430": {
+   "dansk": "Sodfarvet Skråpe",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Puffinus_griseus_in_flight_-_SE_Tasmania.jpg/960px-Puffinus_griseus_in_flight_-_SE_Tasmania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Puffinus_griseus_in_flight_-_SE_Tasmania.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "JJ Harrison (https://www.jjharrison.com.au/)"
+  },
+  "00460": {
+   "dansk": "Almindelig Skråpe",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Manx_Shearwater.JPG/960px-Manx_Shearwater.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Manx_Shearwater.JPG",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Martin Reith"
+  },
+  "00520": {
+   "dansk": "Lille Stormsvale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/European_storm_petrel_%28Hydrobates_pelagicus%29_Sagres.jpg/960px-European_storm_petrel_%28Hydrobates_pelagicus%29_Sagres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:European_storm_petrel_(Hydrobates_pelagicus)_Sagres.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "00550": {
+   "dansk": "Stor Stormsvale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Leach%27s_Storm-petrel_Saint-Jean-de-Monts_01.jpg/960px-Leach%27s_Storm-petrel_Saint-Jean-de-Monts_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Leach%27s_Storm-petrel_Saint-Jean-de-Monts_01.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "00070": {
+   "dansk": "Lille Lappedykker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/960px-Little_grebe_Zwergtaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Little_grebe_Zwergtaucher.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "00090": {
+   "dansk": "Toppet Lappedykker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Podiceps_cristatus_2_-_Lake_Dulverton.jpg/960px-Podiceps_cristatus_2_-_Lake_Dulverton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Podiceps_cristatus_2_-_Lake_Dulverton.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "JJ Harrison (https://www.jjharrison.com.au/)"
+  },
+  "00100": {
+   "dansk": "Gråstrubet Lappedykker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg/960px-Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-necked_grebe_(Podiceps_grisegena_grisegena)_breeding_adult_Gronjordssoen.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "00110": {
+   "dansk": "Nordisk Lappedykker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Podiceps_auritus_%2813909539717%29.jpg/960px-Podiceps_auritus_%2813909539717%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Podiceps_auritus_(13909539717).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Ekaterina Chernetsova (Papchinskaya) from Saint-Petersburg, Russia"
+  },
+  "00120": {
+   "dansk": "Sorthalset Lappedykker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Black-necked_Grebe_Schwarzhalstaucher.jpg/960px-Black-necked_Grebe_Schwarzhalstaucher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Black-necked_Grebe_Schwarzhalstaucher.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "01340": {
+   "dansk": "Hvid Stork",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/960px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_Bia%C5%82owieza.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "01310": {
+   "dansk": "Sort Stork",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ciconia_nigra_-Kruger_National_Park-8.jpg/960px-Ciconia_nigra_-Kruger_National_Park-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ciconia_nigra_-Kruger_National_Park-8.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Chris Eason"
+  },
+  "01440": {
+   "dansk": "Skestork",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurasian_Spoonbill-2.jpg/960px-Eurasian_Spoonbill-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_Spoonbill-2.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "01360": {
+   "dansk": "Sort Ibis",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Glossy_ibis.png/960px-Glossy_ibis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Glossy_ibis.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler, Focus On Wildlife"
+  },
+  "00950": {
+   "dansk": "Rørdrum",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_Bittern_-_Torrile_-_Italy_4528_(15409347121).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Francesco Veronesi from Italy"
+  },
+  "01220": {
+   "dansk": "Fiskehejre",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Il_pescatore_solitario.jpg/960px-Il_pescatore_solitario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Il_pescatore_solitario.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Giacomo Cimino (@giacomociminoph)"
+  },
+  "01210": {
+   "dansk": "Sølvhejre",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png/960px-Great_Egret_%28Ardea_alba%29_in_Breeding_Plumage%2C_Cape_May_County%2C_New_Jersey%2C_USA_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_Egret_(Ardea_alba)_in_Breeding_Plumage,_Cape_May_County,_New_Jersey,_USA_(cropped).png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler (FocusOnWildlife.Me)"
+  },
+  "01190": {
+   "dansk": "Silkehejre",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Little_egret_%28Egretta_garzetta%29_Photograph_by_Shantanu_Kuveskar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Little_egret_(Egretta_garzetta)_Photograph_by_Shantanu_Kuveskar.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Shantanu Kuveskar"
+  },
+  "01110": {
+   "dansk": "Kohejre",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg/960px-Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Kuhreiher_am_Strand_in_%C3%84gypten_9528BE.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Kora27"
+  },
+  "00710": {
+   "dansk": "Sule",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Morus_bassanus_adu.jpg/960px-Morus_bassanus_adu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Morus_bassanus_adu.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "00720": {
+   "dansk": "Skarv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2021-05-05_Phalacrocorax_carbo_carbo%2C_Killingworth_Lake%2C_Northumberland_1-1.jpg/960px-2021-05-05_Phalacrocorax_carbo_carbo%2C_Killingworth_Lake%2C_Northumberland_1-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2021-05-05_Phalacrocorax_carbo_carbo,_Killingworth_Lake,_Northumberland_1-1.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "MPF"
+  },
+  "00800": {
+   "dansk": "Topskarv",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Shag_Phalacrocorax_aristotelis.jpg/960px-Shag_Phalacrocorax_aristotelis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Shag_Phalacrocorax_aristotelis.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "03010": {
+   "dansk": "Fiskeørn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Osprey_Perched_Snag_Heislerville.jpg/960px-Osprey_Perched_Snag_Heislerville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Osprey_Perched_Snag_Heislerville.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler / Focus On Wildlife"
+  },
+  "02310": {
+   "dansk": "Hvepsevåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Wespenbussard_European_honey_buzzard_Pernis_apivorus%2C_crop.jpg/960px-Wespenbussard_European_honey_buzzard_Pernis_apivorus%2C_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Wespenbussard_European_honey_buzzard_Pernis_apivorus,_crop.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "02430": {
+   "dansk": "Havørn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/NZ7_5265_%2852812350718%29.jpg/960px-NZ7_5265_%2852812350718%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:NZ7_5265_(52812350718).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Bengt Nyman from Vaxholm, Sweden"
+  },
+  "02560": {
+   "dansk": "Slangeørn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg/960px-Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Short-toed_Snake-Eagle_in_Bhigwan_August_2025_by_Tisha_Mukherjee_01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Tisha Mukherjee"
+  },
+  "02960": {
+   "dansk": "Kongeørn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/960px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_(Switzerland)_Photo_by_Giles_Laurent.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Giles Laurent"
+  },
+  "02600": {
+   "dansk": "Rørhøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg/960px-M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:M%C3%A4nnliche_Rohrweihe_im_Flug_04.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Stephan Sprinz"
+  },
+  "02610": {
+   "dansk": "Blå Kærhøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Circus_cyaneus_265961899.jpg/960px-Circus_cyaneus_265961899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Circus_cyaneus_265961899.jpg",
+   "licens": "CC0",
+   "licensUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "fotograf": "Александр Чегодаев"
+  },
+  "02620": {
+   "dansk": "Steppehøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Pallid_harrier.jpg/960px-Pallid_harrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pallid_harrier.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Shiv's fotografia"
+  },
+  "02630": {
+   "dansk": "Hedehøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Montagu%27s_harrier_male.jpg/960px-Montagu%27s_harrier_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Montagu%27s_harrier_male.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Hari K Patibanda"
+  },
+  "02690": {
+   "dansk": "Spurvehøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg/960px-%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_(Accipiter_nisus,_m),_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dion Art"
+  },
+  "02670": {
+   "dansk": "Duehøg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Northern_Goshawk_ad_M2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Northern_Goshawk_ad_M2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Norbert Kenntner, Berlin"
+  },
+  "02390": {
+   "dansk": "Rød Glente",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Milvus_milvus_R%28ThKraft%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_R(ThKraft).jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Thomas Kraft (ThKraft)"
+  },
+  "02380": {
+   "dansk": "Sort Glente",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Schwarzmilan.jpg/960px-Schwarzmilan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Schwarzmilan.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Andreas Trepte"
+  },
+  "02870": {
+   "dansk": "Musvåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Common_Buzzard_by_caroline_legg_%28cropped%29.jpg/960px-Common_Buzzard_by_caroline_legg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Buzzard_by_caroline_legg_(cropped).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "caroline legg"
+  },
+  "02900": {
+   "dansk": "Fjeldvåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Fjellv%C3%A5k_%28Buteo_lagopus%29_%28Rough-legged_Buzzard%29_%28Fj%C3%A4llvr%C3%A5k%29.jpg/960px-Fjellv%C3%A5k_%28Buteo_lagopus%29_%28Rough-legged_Buzzard%29_%28Fj%C3%A4llvr%C3%A5k%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Fjellv%C3%A5k_(Buteo_lagopus)_(Rough-legged_Buzzard)_(Fj%C3%A4llvr%C3%A5k).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Marton Berntsen"
+  },
+  "03040": {
+   "dansk": "Tårnfalk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/960px-Common_kestrel_falco_tinnunculus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_kestrel_falco_tinnunculus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "03070": {
+   "dansk": "Aftenfalk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Falco_vespertinus_2_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Falco_vespertinus_2_(Martin_Mecnarowski).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Martin Mecnarowski (http://www.photomecan.eu/)"
+  },
+  "03090": {
+   "dansk": "Dværgfalk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/960px-Merlin_in_Prospect_Park_%2863386%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Merlin_in_Prospect_Park_(63386).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Rhododendrites"
+  },
+  "03100": {
+   "dansk": "Lærkefalk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Eurasian_hobby_%28Falco_subbuteo%29_by_Shantanu_Kuveskar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Shantanu Kuveskar"
+  },
+  "03200": {
+   "dansk": "Vandrefalk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/960px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Mykola Swarnyk"
+  },
+  "04330": {
+   "dansk": "Trane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/960px-Common_crane_grus_grus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_crane_grus_grus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "04070": {
+   "dansk": "Vandrikse",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Water_rail_2022_04_30_01.jpg/960px-Water_rail_2022_04_30_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Water_rail_2022_04_30_01.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "04080": {
+   "dansk": "Plettet Rørvagtel",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg/960px-Spotted_crake_%28Porzana_porzana%29_%286830876880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Spotted_crake_(Porzana_porzana)_(6830876880).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Noel Reynolds"
+  },
+  "04210": {
+   "dansk": "Engsnarre",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ruisr%C3%A4%C3%A4kk%C3%A4.JPG/960px-Ruisr%C3%A4%C3%A4kk%C3%A4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ruisr%C3%A4%C3%A4kk%C3%A4.JPG",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "Alpo Roikola"
+  },
+  "04240": {
+   "dansk": "Rørhøne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/960px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "04290": {
+   "dansk": "Blishøne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Eurasian_Coot_2023_11_25_03.jpg/960px-Eurasian_Coot_2023_11_25_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot_2023_11_25_03.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "04500": {
+   "dansk": "Strandskade",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Haematopus_ostralegus_He.jpg/960px-Haematopus_ostralegus_He.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_He.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "04560": {
+   "dansk": "Klyde",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pied_Avocet_Recurvirostra_avosetta.jpg/960px-Pied_Avocet_Recurvirostra_avosetta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "04550": {
+   "dansk": "Stylteløber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg/960px-Black-winged_stilt_%28Himantopus_himantopus%29_Pearaing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Black-winged_stilt_(Himantopus_himantopus)_Pearaing.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "04930": {
+   "dansk": "Vibe",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg/960px-Northern-Lapwing-Vanellus-vanellus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Northern-Lapwing-Vanellus-vanellus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "04850": {
+   "dansk": "Hjejle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg/960px-European_golden_plover_%28Pluvialis_apricaria%29_female_breeding_Keflavik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:European_golden_plover_(Pluvialis_apricaria)_female_breeding_Keflavik.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "04860": {
+   "dansk": "Strandhjejle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Breeding_plumage_Black-bellied_plover_%28Pluvialis_squatarola%29_Great_Bay_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png/960px-Breeding_plumage_Black-bellied_plover_%28Pluvialis_squatarola%29_Great_Bay_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Breeding_plumage_Black-bellied_plover_(Pluvialis_squatarola)_Great_Bay_Wildlife_Management_Area,_New_Jersey,_USA.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler, Focus On Wildlife"
+  },
+  "04700": {
+   "dansk": "Stor Præstekrave",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg/960px-Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_ringed_plover_(Charadrius_hiaticula)_Oppdal.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "04690": {
+   "dansk": "Lille Præstekrave",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Charadrius_dubius_-_Little_ringed_plover_05.jpg/960px-Charadrius_dubius_-_Little_ringed_plover_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Charadrius_dubius_-_Little_ringed_plover_05.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Zeynel Cebeci"
+  },
+  "04770": {
+   "dansk": "Hvidbrystet Præstekrave",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kentish_Plover_Charadrius_alexandrinus%2C_India.jpg/960px-Kentish_Plover_Charadrius_alexandrinus%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Kentish_Plover_Charadrius_alexandrinus,_India.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Original: Davidvraju, edit: MPF"
+  },
+  "04820": {
+   "dansk": "Pomeransfugl",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Charadrius_morinellus_male.jpg/960px-Charadrius_morinellus_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Charadrius_morinellus_male.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": null
+  },
+  "05380": {
+   "dansk": "Småspove",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Whimbrel_Numenius_phaeopus.jpg/960px-Whimbrel_Numenius_phaeopus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Whimbrel_Numenius_phaeopus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05410": {
+   "dansk": "Storspove",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Eurasian_Curlew.jpg/960px-Eurasian_Curlew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Eurasian_Curlew.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05340": {
+   "dansk": "Lille Kobbersneppe",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bar-tailed_Godwit.jpg/960px-Bar-tailed_Godwit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bar-tailed_Godwit.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05320": {
+   "dansk": "Stor Kobbersneppe",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Black-tailed_Godwit_Uferschnepfe.jpg/960px-Black-tailed_Godwit_Uferschnepfe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Black-tailed_Godwit_Uferschnepfe.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05610": {
+   "dansk": "Stenvender",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ruddy_turnstone_%28Arenaria_interpres%29_Breeding_Plumage_Heislerville_WMA%2C_Cumberland_County%2C_New_Jersey%2C_USA.jpg/960px-Ruddy_turnstone_%28Arenaria_interpres%29_Breeding_Plumage_Heislerville_WMA%2C_Cumberland_County%2C_New_Jersey%2C_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Ruddy_turnstone_(Arenaria_interpres)_Breeding_Plumage_Heislerville_WMA,_Cumberland_County,_New_Jersey,_USA.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler d/b/a Focus On Wildlife"
+  },
+  "04960": {
+   "dansk": "Islandsk Ryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/960px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rufa_red_knot_(Calidris_canutus_rufa)_in_Delaware_Bay,_New_Jersey.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler d/b/a Focus On Wildlife"
+  },
+  "05170": {
+   "dansk": "Brushane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Philomachus_pugnax_-Diergaarde_Blijdorp-8c.jpg/960px-Philomachus_pugnax_-Diergaarde_Blijdorp-8c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Philomachus_pugnax_-Diergaarde_Blijdorp-8c.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Arjan Haverkamp"
+  },
+  "05090": {
+   "dansk": "Krumnæbbet Ryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Curlew_Sandpiper_%28Calidris_ferruginea%29_%2844855173205%29.jpg/960px-Curlew_Sandpiper_%28Calidris_ferruginea%29_%2844855173205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Curlew_Sandpiper_(Calidris_ferruginea)_(44855173205).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Imran Shah from Islamabad, Pakistan"
+  },
+  "05070": {
+   "dansk": "Stribet Ryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pectoral_Sandpiper3.jpg/960px-Pectoral_Sandpiper3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pectoral_Sandpiper3.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05020": {
+   "dansk": "Temmincksryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Temminck%27s_stint_%28Calidris_temminckii%29_Oppdal.jpg/960px-Temminck%27s_stint_%28Calidris_temminckii%29_Oppdal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Temminck%27s_stint_(Calidris_temminckii)_Oppdal.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "04970": {
+   "dansk": "Sandløber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg/960px-Sanderling_%28Calidris_alba%29_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sanderling_(Calidris_alba)_in_Breeding_Plumage_in_the_Delaware_Bay_-_Heislerville_WMA_-_Cumberland_County_-_New_Jersey_-_May_2026.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler, Focus On Wildlife"
+  },
+  "05120": {
+   "dansk": "Almindelig Ryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png/960px-Dunlin_%28Calidris_alpina%29_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area%2C_New_Jersey%2C_USA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Dunlin_(Calidris_alpina)_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area,_New_Jersey,_USA.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles Homler d/b/a FocusOnWildlife"
+  },
+  "05100": {
+   "dansk": "Sortgrå Ryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/PUSA_perched_LBI.jpg/960px-PUSA_perched_LBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:PUSA_perched_LBI.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Chuck Homler d/b/a Focus On Wildlife"
+  },
+  "05010": {
+   "dansk": "Dværgryle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/B%C3%A9casseau_minute_Thyna007.jpg/960px-B%C3%A9casseau_minute_Thyna007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:B%C3%A9casseau_minute_Thyna007.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "El Golli Mohamed"
+  },
+  "05140": {
+   "dansk": "Kærløber",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Broad_billed_sandpiper_by_Sreedev_Puthur.jpg/960px-Broad_billed_sandpiper_by_Sreedev_Puthur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Broad_billed_sandpiper_by_Sreedev_Puthur.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Sreedev Puthur"
+  },
+  "05540": {
+   "dansk": "Tinksmed",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Wood_Sandpiper_Safari_Park.jpg/960px-Wood_Sandpiper_Safari_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Wood_Sandpiper_Safari_Park.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Abdul Momin"
+  },
+  "05530": {
+   "dansk": "Svaleklire",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Green-Sandpiper-Sandeep.jpg/960px-Green-Sandpiper-Sandeep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Green-Sandpiper-Sandeep.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Swardeepak"
+  },
+  "05560": {
+   "dansk": "Mudderklire",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/960px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+   "licens": "CC BY 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/3.0",
+   "fotograf": "JJ Harrison (https://www.jjharrison.com.au/)"
+  },
+  "05460": {
+   "dansk": "Rødben",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Common_redshank_%28Tringa_totanus%29_breeding_Marken.jpg/960px-Common_redshank_%28Tringa_totanus%29_breeding_Marken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_redshank_(Tringa_totanus)_breeding_Marken.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "05450": {
+   "dansk": "Sortklire",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Spottedredshankbreedingplumage2.jpg/960px-Spottedredshankbreedingplumage2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Spottedredshankbreedingplumage2.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Hari K Patibanda"
+  },
+  "05480": {
+   "dansk": "Hvidklire",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Common-Greenshank.jpg/960px-Common-Greenshank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common-Greenshank.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05290": {
+   "dansk": "Skovsneppe",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Woodcock_earthworm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Woodcock_earthworm.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Ronald Slabke"
+  },
+  "05180": {
+   "dansk": "Enkeltbekkasin",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jack_snipe.png/960px-Jack_snipe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Jack_snipe.png",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Morhaf kamal aljanee"
+  },
+  "05200": {
+   "dansk": "Tredækker",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Great_Snipe_%28Gallinago_media%29%2C_%C3%85re%2C_J%C3%A4mtland%2C_Sweden_15.jpg/960px-Great_Snipe_%28Gallinago_media%29%2C_%C3%85re%2C_J%C3%A4mtland%2C_Sweden_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_Snipe_(Gallinago_media),_%C3%85re,_J%C3%A4mtland,_Sweden_15.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "christoph_moning"
+  },
+  "05190": {
+   "dansk": "Dobbeltbekkasin",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Common_snipe_%28Gallinago_gallinago%29_2022.jpg/960px-Common_snipe_%28Gallinago_gallinago%29_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_snipe_(Gallinago_gallinago)_2022.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "TRinaud"
+  },
+  "05640": {
+   "dansk": "Odinshane",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-necked_Phalarope.jpg/960px-Red-necked_Phalarope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Red-necked_Phalarope.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05650": {
+   "dansk": "Thorshane",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Phalaropus_fulicarius_98755138_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Phalaropus_fulicarius_98755138_(cropped).jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Christoph Moning"
+  },
+  "05690": {
+   "dansk": "Storkjove",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stercorarius_skua_-Iceland-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Stercorarius_skua_-Iceland-8.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Ómar Runólfsson"
+  },
+  "05660": {
+   "dansk": "Mellemkjove",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Stercorarius_pomarinusPCCA20070623-3985B.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Patrick Coin (Patrick Coin)"
+  },
+  "05670": {
+   "dansk": "Almindelig Kjove",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Arctic_Skua_1.jpg/960px-Arctic_Skua_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Arctic_Skua_1.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Jinesh PS"
+  },
+  "05680": {
+   "dansk": "Lille Kjove",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Stercorarius_longicaudus_551410178.jpg/960px-Stercorarius_longicaudus_551410178.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Stercorarius_longicaudus_551410178.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Svyatoslav Knyazev"
+  },
+  "06470": {
+   "dansk": "Søkonge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Krabbentaucher_Sommer_2023.jpg/960px-Krabbentaucher_Sommer_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Krabbentaucher_Sommer_2023.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Ma-ludw, https://ludwig-photography.ch"
+  },
+  "06340": {
+   "dansk": "Lomvie",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/960px-Common_Murre_Uria_aalge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Murre_Uria_aalge.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "06360": {
+   "dansk": "Alk",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Razorbill_with_a_nice_catch.jpg/960px-Razorbill_with_a_nice_catch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Razorbill_with_a_nice_catch.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "neekoh.fi"
+  },
+  "06380": {
+   "dansk": "Tejst",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Black_guillemot_%28Cepphus_grylle_icelandicus%29_with_a_hermit_crab_%28Pagurus_bernhardus%29_Flatey.jpg/960px-Black_guillemot_%28Cepphus_grylle_icelandicus%29_with_a_hermit_crab_%28Pagurus_bernhardus%29_Flatey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Black_guillemot_(Cepphus_grylle_icelandicus)_with_a_hermit_crab_(Pagurus_bernhardus)_Flatey.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "06540": {
+   "dansk": "Lunde",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/960px-Puffin_%28Fratercula_arctica%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "05780": {
+   "dansk": "Dværgmåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%C4%8Cajka_mal%C3%A1_%28Larus_minutus%29_a_%284834254958%29.jpg/960px-%C4%8Cajka_mal%C3%A1_%28Larus_minutus%29_a_%284834254958%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%C4%8Cajka_mal%C3%A1_(Larus_minutus)_a_(4834254958).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Andrej Chudý from Slovakia"
+  },
+  "06020": {
+   "dansk": "Ride",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Rissa_tridactyla_%28Vard%C3%B8%2C_2012%29.jpg/960px-Rissa_tridactyla_%28Vard%C3%B8%2C_2012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rissa_tridactyla_(Vard%C3%B8,_2012).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Yathin S Krishnappa"
+  },
+  "05820": {
+   "dansk": "Hættemåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Chroicocephalus_ridibundus_%28summer%29.jpg/960px-Chroicocephalus_ridibundus_%28summer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chroicocephalus_ridibundus_(summer).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Hans Hillewaert"
+  },
+  "05750": {
+   "dansk": "Sorthovedet Måge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg/960px-Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Martin Olsson (mnemo on en/sv wikipedia and commons, martin@minimum.se)."
+  },
+  "05900": {
+   "dansk": "Stormmåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Larus_canus_Common_Gull_in_Norway.jpg/960px-Larus_canus_Common_Gull_in_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Larus_canus_Common_Gull_in_Norway.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05910": {
+   "dansk": "Sildemåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Larus-fuscus-taxbox.jpg/960px-Larus-fuscus-taxbox.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Larus-fuscus-taxbox.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "05920": {
+   "dansk": "Sølvmåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/European_herring_gull_vocalizing_%2800170%29.jpg/960px-European_herring_gull_vocalizing_%2800170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:European_herring_gull_vocalizing_(00170).jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Rhododendrites"
+  },
+  "05930": {
+   "dansk": "Kaspisk Måge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Caspian_gull_%28Larus_cachinnans%29_summer_Danube_delta.jpg/960px-Caspian_gull_%28Larus_cachinnans%29_summer_Danube_delta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Caspian_gull_(Larus_cachinnans)_summer_Danube_delta.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "05915": {
+   "dansk": "Middelhavssølvmåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Yellow-legged_Gull_2023-10-10.jpg/960px-Yellow-legged_Gull_2023-10-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Yellow-legged_Gull_2023-10-10.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "05990": {
+   "dansk": "Gråmåge",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Glacous_Gull_on_ice.jpg/960px-Glacous_Gull_on_ice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Glacous_Gull_on_ice.jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Alastair Rae from London, UK"
+  },
+  "06000": {
+   "dansk": "Svartbag",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Great_Black-backed_Gull_Larus_marinus.jpg/960px-Great_Black-backed_Gull_Larus_marinus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_Black-backed_Gull_Larus_marinus.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  },
+  "06240": {
+   "dansk": "Dværgterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%9A%D1%80%D1%8F%D1%87%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.jpg/960px-%D0%9A%D1%80%D1%8F%D1%87%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D1%8F%D1%87%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "PetroKaterynych"
+  },
+  "06050": {
+   "dansk": "Sandterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Gelochelidon_nilotica_vanrossemi.jpg/960px-Gelochelidon_nilotica_vanrossemi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Gelochelidon_nilotica_vanrossemi.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Eric Kershner/USFWS"
+  },
+  "06060": {
+   "dansk": "Rovterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/960px-Sterna-caspia-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sterna-caspia-010.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Mdf"
+  },
+  "06270": {
+   "dansk": "Sortterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/960px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%C4%8Cor%C3%ADk_%C4%8Dierny_(Chlidonias_niger)_a_(4644831482).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Andrej Chudý from Slovakia"
+  },
+  "06280": {
+   "dansk": "Hvidvinget Terne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Chlidonias_leucopterus_2023-04-08.jpg/960px-Chlidonias_leucopterus_2023-04-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Chlidonias_leucopterus_2023-04-08.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Nrg800"
+  },
+  "06110": {
+   "dansk": "Splitterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/960px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2021-07-10_Thalasseus_sandvicensis,_St_Marys_Island,_Northumberland_01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "MPF"
+  },
+  "06150": {
+   "dansk": "Fjordterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg/960px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2014-05-18_Sterna_hirundo,_Killingworth_Lake,_Northumberland_04.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "MPF"
+  },
+  "06160": {
+   "dansk": "Havterne",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Arctic_tern_%28Sterna_paradisaea%29_Flatey_3.jpg/960px-Arctic_tern_%28Sterna_paradisaea%29_Flatey_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Arctic_tern_(Sterna_paradisaea)_Flatey_3.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "06650": {
+   "dansk": "Klippedue",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg/960px-Columba_livia_%28Rock_Dove%2C_wild%29%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Columba_livia_(Rock_Dove,_wild),_Duncansby_Head,_Caithness,_Scotland_1.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "william_stephens"
+  },
+  "06680": {
+   "dansk": "Huldue",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Pigeon_colombin_%28Colulmba_oenas%29%2C_Parc_de_Woluwe%2C_Bruxelles_%2851921513878%29.jpg/960px-Pigeon_colombin_%28Colulmba_oenas%29%2C_Parc_de_Woluwe%2C_Bruxelles_%2851921513878%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Pigeon_colombin_(Colulmba_oenas),_Parc_de_Woluwe,_Bruxelles_(51921513878).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Frank Vassen from Brussels, Belgium"
+  },
+  "06700": {
+   "dansk": "Ringdue",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Columba_palumbus_EM1B1397_%2827445478998%29.jpg/960px-Columba_palumbus_EM1B1397_%2827445478998%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_EM1B1397_(27445478998).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Bengt Nyman from Vaxholm, Sweden"
+  },
+  "06840": {
+   "dansk": "Tyrkerdue",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/960px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:2022-04-06_Streptopelia_decaocto,_Plovdiv,_Bulgaria_1.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "stevem4560"
+  },
+  "06870": {
+   "dansk": "Turteldue",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Turtle_dove_%28Streptopelia_turtur_turtur%29_Hungary.jpg/960px-Turtle_dove_%28Streptopelia_turtur_turtur%29_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Turtle_dove_(Streptopelia_turtur_turtur)_Hungary.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "07240": {
+   "dansk": "Gøg",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Cuckoo_%2851169010335%29.jpg/960px-Cuckoo_%2851169010335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Cuckoo_(51169010335).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Andy Morffew from Itchen Abbas, Hampshire, UK"
+  },
+  "07350": {
+   "dansk": "Slørugle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Barn_Owl%2C_Lancashire.jpg/960px-Barn_Owl%2C_Lancashire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Barn_Owl,_Lancashire.jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Steven Ward"
+  },
+  "07570": {
+   "dansk": "Kirkeugle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg/960px-%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D1%8B%D1%87._%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B2_%D0%BA%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD%D0%B5_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B0_%D0%91%D0%BE%D0%B7%D0%B6%D1%8B%D1%80%D0%B0._01.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Максат79"
+  },
+  "07440": {
+   "dansk": "Stor Hornugle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bubo_bubo_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Bubo_bubo_3_(Martin_Mecnarowski).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Martin Mecnarowski (http://www.photomecan.eu/)"
+  },
+  "07610": {
+   "dansk": "Natugle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Strix_aluco_3_%28Martin_Mecnarowski%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Strix_aluco_3_(Martin_Mecnarowski).jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "fotograf": "Martin Mecnarowski (http://www.photomecan.eu/)"
+  },
+  "07670": {
+   "dansk": "Skovhornugle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "side": "https://commons.wikimedia.org/wiki/File:Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_(15671750198).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Francesco Veronesi from Italy"
+  },
+  "07680": {
+   "dansk": "Mosehornugle",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Short_Eared_Owl_on_the_Ground.jpg/960px-Short_Eared_Owl_on_the_Ground.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Short_Eared_Owl_on_the_Ground.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Sumeet Moghe"
+  },
+  "07780": {
+   "dansk": "Natravn",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%C5%9Eivanxap%C3%AEnok.jpg/960px-%C5%9Eivanxap%C3%AEnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%C5%9Eivanxap%C3%AEnok.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "Dûrzan cîrano"
+  },
+  "07950": {
+   "dansk": "Mursejler",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Common_Swift_2025_07_18_02_%28cropped%29.jpg/960px-Common_Swift_2025_07_18_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02_(cropped).jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Alexis Lours"
+  },
+  "08310": {
+   "dansk": "Isfugl",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcedo_atthis_-England-8_%28cropped%29.jpg/960px-Alcedo_atthis_-England-8_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Alcedo_atthis_-England-8_(cropped).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Tony Wood"
+  },
+  "08400": {
+   "dansk": "Biæder",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Bee-eater_%2819270331108%29.jpg/960px-Bee-eater_%2819270331108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Bee-eater_(19270331108).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Andy Morffew from Itchen Abbas, Hampshire, UK"
+  },
+  "08480": {
+   "dansk": "Vendehals",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg/960px-Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Jynx_torquilla_%D0%BA%D1%80%D1%83%D1%82%D0%B8%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Бусел В.А."
+  },
+  "08560": {
+   "dansk": "Grønspætte",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/European_green_woodpecker_%28Picus_viridis%29_female_Barnes.jpg/960px-European_green_woodpecker_%28Picus_viridis%29_female_Barnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_female_Barnes.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "08630": {
+   "dansk": "Sortspætte",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_%28Dryocopus_martius%2C_fem%29%2C_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg/960px-%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_%28Dryocopus_martius%2C_fem%29%2C_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_(Dryocopus_martius,_fem),_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Dion Art"
+  },
+  "08760": {
+   "dansk": "Stor Flagspætte",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Great_spotted_woodpecker_%28Dendrocopos_major%29_male_Drenthe.jpg/960px-Great_spotted_woodpecker_%28Dendrocopos_major%29_male_Drenthe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Great_spotted_woodpecker_(Dendrocopos_major)_male_Drenthe.jpg",
+   "licens": "CC BY-SA 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "fotograf": "Charles J. Sharp"
+  },
+  "08870": {
+   "dansk": "Lille Flagspætte",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Male_lesser_spotted_woodpecker_%28Dryobates_minor%29.png/960px-Male_lesser_spotted_woodpecker_%28Dryobates_minor%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Male_lesser_spotted_woodpecker_(Dryobates_minor).png",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Andrey Gulivanov"
+  },
+  "09740": {
+   "dansk": "Hedelærke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg/960px-Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Lullula_arborea_(J%C3%A1n_Svetl%C3%ADk).jpg",
+   "licens": "CC BY-SA 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "fotograf": "Ján Svetlík"
+  },
+  "09760": {
+   "dansk": "Sanglærke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg/960px-Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Skylark_2,_Lake_District,_England_-_June_2009.jpg",
+   "licens": "CC BY-SA 3.0",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "fotograf": "User:Diliff"
+  },
+  "09780": {
+   "dansk": "Bjerglærke",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Horned_lark_%28eremophila_alpestris%29_01.jpg/960px-Horned_lark_%28eremophila_alpestris%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Horned_lark_(eremophila_alpestris)_01.jpg",
+   "licens": "CC BY 4.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/4.0",
+   "fotograf": "Stephan Sprinz"
+  },
+  "09810": {
+   "dansk": "Digesvale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/960px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Sand_martin_(Riparia_riparia),_Guidel-Plage,_Brittany,_France_(19765483180).jpg",
+   "licens": "CC BY 2.0",
+   "licensUrl": "https://creativecommons.org/licenses/by/2.0",
+   "fotograf": "Frank Vassen from Brussels, Belgium"
+  },
+  "09920": {
+   "dansk": "Landsvale",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/960px-Rauchschwalbe_Hirundo_rustica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "side": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+   "licens": "CC BY-SA 2.5",
+   "licensUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+   "fotograf": "Andreas Trepte"
+  }
+ }
+}
